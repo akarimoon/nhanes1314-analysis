@@ -4,6 +4,8 @@
 [NHANES](https://www.cdc.gov/nchs/nhanes/index.htm), National Health and Nutrition Experimentation Survey, is a national survey taken in the U.S. every year. It is "a program of studies designed to assess the health and nutritional status of adults and children in the United States". CSV formatted files are available [here](https://www.kaggle.com/cdc/national-health-and-nutrition-examination-survey).
 
 ## What are in the data?
+All graphs are in the `data` folder.
+
 - demographic.csv
 - examination.csv: Contains blood pressure, body measures, etc.
 - diet.csv: total nutrient intake, etc.
