@@ -10,7 +10,7 @@
 - labs.csv: chemicals substances in the body, etc.
 
 ## What I did
-eda.ipynb shows my work for this dataset. I analyzed how income-levels and people's health awareness/education are related to each other.
+`eda.ipynb` shows my work for this dataset. I analyzed how income-levels and people's health awareness/education are related to each other.
 
 Using simple [decision tree algorithm](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1), I was able to achieve 97% for both training and test dataset.
 
